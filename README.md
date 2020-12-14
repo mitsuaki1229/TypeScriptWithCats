@@ -5,9 +5,21 @@ Feel in touch with cats.
 
 ## Requirement
 
+* npm
+
 ## Install
 
+```shell
+$ npm install --save-dev typescript jest ts-jest @types/jest
+$ tsc -v
+Version 4.1.3
+```
+
 ## Usage
+
+```shell
+$ npm test
+```
 
 ## Licence
 
